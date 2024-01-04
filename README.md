@@ -1,0 +1,2 @@
+# Weather-Based Activity Recommender ❄️ ☔ ⛅ 🌞
+This simple Java program is designed as an assignment for [Patika.dev](https://patika.dev). The program prompts the user to input the current temperature and then suggests an outdoor activity based on the given temperature range.
